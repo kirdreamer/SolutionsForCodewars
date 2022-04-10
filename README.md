@@ -1,3 +1,3 @@
 # SolutionsFromCodewars
 ---
-This repository contains all java-solutions from website codewars.com
+This repository contains all java-solutions for website codewars.com
